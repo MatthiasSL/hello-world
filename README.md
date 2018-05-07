@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+
+This is the tutorial repository the github tutorial told me to make.
